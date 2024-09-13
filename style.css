@@ -1,0 +1,37 @@
+.bkg-color {
+    background-color: #FFE5CF;
+}
+
+.bio {
+    background-color: white;
+}
+
+.passport {
+    border-radius: 50%;
+}
+
+.support {
+    width: 150px;
+    border-radius: 40%;
+}
+
+.box {
+    width: 100%;
+    float: left;
+    background-color: white;
+}
+
+.skill-img {
+    float: left;
+}
+
+.footer {
+    background-color: #C7FFD8;
+}
+
+h1 {
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
